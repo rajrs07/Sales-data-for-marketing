@@ -30,3 +30,4 @@ To replicate the analysis, follow these steps:
 2. Import data from ORIGINAL DATASET.csv file.
 3. Run the SQL queries to extract and manipulate the data.
 4. Use the insights and dashboard to guide marketing decisions.
+5. Link to tableau: https://public.tableau.com/views/Salesdata4marketing/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
