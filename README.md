@@ -27,5 +27,6 @@ The findings from this project can significantly shape the company's future mark
 ## How to Use
 To replicate the analysis, follow these steps:
 1. Download the dataset and the `Sales Data Marketing.sql` file.
-2. Run the SQL queries to extract and manipulate the data.
-3. Use the insights and dashboard to guide marketing decisions.
+2. Import data from ORIGINAL DATASET.csv file.
+3. Run the SQL queries to extract and manipulate the data.
+4. Use the insights and dashboard to guide marketing decisions.
